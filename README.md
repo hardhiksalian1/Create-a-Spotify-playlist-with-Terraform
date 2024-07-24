@@ -1,5 +1,6 @@
 # Create-a-Spotify-playlist-with-Terraform
 Use a Terraform data source to search Spotify for an artist, album, or song, and use that data to build a playlist.
+
 Pre Requisite:
 -docker desktop
 -spotify dev account (refer- " https://developer.hashicorp.com/terraform/tutorials/community-providers/spotify-playlist ")
