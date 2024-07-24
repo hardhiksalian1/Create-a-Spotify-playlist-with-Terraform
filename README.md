@@ -17,4 +17,4 @@ commands :
 - terraform init (terraform.tfstate file will be generated)
 - terraform plan
 - terraform apply -auto-approve
-(do this in seperate terminal as docker container needs to be running in other terminal)
+(do commands in seperate terminal as docker container needs to be running in other terminal)
